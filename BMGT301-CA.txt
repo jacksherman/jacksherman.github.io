@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head> <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118255554-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118255554-1');
+</script>
+	 <h1 style="text-align: center; background-color: red"> Jack Sherman </h1>
+	 <a href="http://hmpg.net/"><img src= https://mail.google.com/mail/u/0/?ui=2&ik=d95495e6f7&view=att&th=162f920f7889b14a&attid=0.1&disp=safe&zw></a>
+	</head>
+	<body> 
+	<p style="background-color: orange"> <em><strong> My name is Jack Sherman. I am 20 year old <em>male</em> who is from Great Neck, NY. I have grown up on Long Island my whole life. I love sports, being with family and friends and watching movies.</em> </p>
+	<h2 style="font-family: Arial"> <strong> My Favorite Movies </strong> </h2> 
+	    <li style="color: blue"> Goodfellas </li>
+	        <ul>
+	            <li> "Never rat on your friends, and always keep your mouth shut" -James Conway </li>
+	       </ul>
+	    <li style="color:blue"> Wedding Crashers </li>
+	    <ul>
+	        <li> "I hunt quail, Jeremy. They're overpopulated and they're decimating the grub-worm population. You have a f***ing problem with that?" -Sack Lodge </li>
+	        </ul>
+	    <li style="color:blue"> ScarFace</li>
+	    <ul> 
+	        <li> "Say hello to my little friend" -Tony Montana
+	        </ul>
+	  </ul>
+	  <h3 style="font-family: Arial"> My Favorite Sports Team </h3> 
+	    <li> <a href="https://www.mlb.com/yankees">New York Yankees</a> </li>
+	    <li> <a href="http://www.newyorkjets.com">New York Jets</a> </li>
+	    <li> <a href="http://www.nba.com/knicks/">New York Knicks</a> </li>
+	    
+	    
+	</body>
+</html>
